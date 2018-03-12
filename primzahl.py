@@ -1,3 +1,3 @@
 # primzahlen
 # Funktion: check if given numbers is prime
-# Mario
+# Wetter heute, sonnig bis wechselhaft
